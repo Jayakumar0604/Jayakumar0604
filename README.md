@@ -155,7 +155,7 @@ const jayakumar = {
 
 [![GitHub](https://img.shields.io/badge/GitHub-Jayakumar0604-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayakumar0604)
 
-[![Email](https://img.shields.io/badge/Gmail-your--email%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayakumarcse0421@gmail.com)
+[![Email](https://img.shields.io/badge/Gmail-jayakumarcse0421gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jayakumarcse0421@gmail.com)
 
 </div>
 
