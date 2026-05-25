@@ -1,139 +1,109 @@
-<!-- ╔══════════════════════════════════════════════════════════════════╗ -->
-<!--   JAYAKUMAR M · GitHub Profile README  —  v2.0 · Recruiter Ready  -->
-<!-- ╚══════════════════════════════════════════════════════════════════╝ -->
-
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=200&section=header&text=Jayakumar%20M&fontSize=60&fontColor=fff&animation=twinkling&fontAlignY=36&desc=Full-Stack%20JavaScript%20Developer%20%7C%20React%20%C2%B7%20Node.js%20%C2%B7%20REST%20APIs&descAlignY=58&descSize=16" width="100%"/>
+<!-- BANNER - capsule-render.vercel.app (reliable, separate from readme-stats) -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0f0c29,50:302b63,100:24243e&height=200&section=header&text=Jayakumar%20M&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20React%20%7C%20Node.js%20%7C%20MERN&descAlignY=58&descSize=18&descColor=a78bfa" />
 
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00D4AA&center=true&vCenter=true&width=600&lines=Building+scalable+full-stack+web+applications+%F0%9F%9A%80;React+%7C+Node.js+%7C+Express+%7C+REST+APIs;Writing+clean%2C+purposeful%2C+production-grade+code;Available+for+Full-Time+Roles+%E2%80%94+Joining+Immediately+%F0%9F%9F%A2)](https://git.io/typing-svg)
-
-</div>
+<!-- TYPING SVG - readme-typing-svg.demolab.com (DenverCoder1, reliable) -->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;MERN+Stack+Specialist+%E2%9A%A1;React+%7C+Node.js+%7C+MongoDB;Open+to+Work+%E2%80%94+Job+Ready+%F0%9F%92%BC;Bangalore+%7C+Chennai+%7C+Hyderabad+%7C+Remote" />
+</a>
 
 <br/>
 
-<div align="center">
+<!-- STATUS BADGES - shields.io (100% reliable CDN) -->
+<img src="https://img.shields.io/badge/%F0%9F%9F%A2%20OPEN%20TO%20WORK-Full%20Time%20Job-22c55e?style=for-the-badge&labelColor=0f0c29" />
+&nbsp;
+<img src="https://img.shields.io/badge/%F0%9F%93%8D%20LOCATION-Pudukkottai%2C%20TN-6366f1?style=for-the-badge&labelColor=0f0c29" />
 
-![Profile Views](https://komarev.com/ghpvc/?username=Jayakumar0604&color=00d4aa&style=for-the-badge&label=PROFILE+VIEWS)
+<br/><br/>
+
+<a href="https://www.linkedin.com/in/jayakumar-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
 &nbsp;
-[![GitHub followers](https://img.shields.io/github/followers/Jayakumar0604?style=for-the-badge&color=0077B5&labelColor=0d1117&label=FOLLOWERS)](https://github.com/Jayakumar0604?tab=followers)
+<a href="mailto:jayakumarcse0421@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
 &nbsp;
-![Repos](https://img.shields.io/badge/REPOS-15-e3b341?style=for-the-badge&labelColor=0d1117)
+<a href="https://jayakumar-developer.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-View%20Work-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white" />
+</a>
 &nbsp;
-![Open to Work](https://img.shields.io/badge/STATUS-OPEN%20TO%20WORK%20%F0%9F%9F%A2-00d4aa?style=for-the-badge&labelColor=0d1117)
+<img src="https://komarev.com/ghpvc/?username=Jayakumar0604&label=Profile+Views&color=a78bfa&style=for-the-badge" />
 
 </div>
 
 ---
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-```typescript
-const jayakumar: Developer = {
-  name:         "Jayakumar M",
-  currentCity:  "Pudukkottai, Tamil Nadu 🇮🇳",
-  openTo: {
-    locations:  ["Bengaluru", "Chennai", "Coimbatore", "Hyderabad", "Remote 🌐"],
-    type:       "Full-Time",              // ← Not internship. Full-time only.
-    joinBy:     "Immediate",
+```javascript
+const Jayakumar = {
+  name       : "Jayakumar M",
+  role       : "Full Stack Developer",
+  location   : "Pudukkottai, Tamil Nadu 📍",
+  openTo     : ["Bangalore", "Chennai", "Coimbatore", "Hyderabad", "Remote 🌐"],
+  lookingFor : "Full-Time Job Opportunity — NOT Internship 💼",
+  stack      : ["React", "Node.js", "Express.js", "MongoDB", "JavaScript"],
+  contact    : {
+    email    : "jayakumarcse0421@gmail.com",
+    portfolio: "https://jayakumar-developer.netlify.app/",
+    linkedin : "https://www.linkedin.com/in/jayakumar-dev/",
+    github   : "https://github.com/Jayakumar0604"
   },
-  role:         "Full-Stack JavaScript Developer",
-  primaryStack: ["React.js", "Node.js", "Express.js", "JavaScript ES6+"],
-  tools:        ["Git", "REST APIs", "Postman", "VS Code", "Figma", "Netlify"],
-  currentlyLearning: ["TypeScript", "Next.js", "MongoDB", "Docker", "System Design"],
-  portfolio:    "https://jayakumar-developer.netlify.app/",
-  linkedin:     "https://www.linkedin.com/in/jayakumar-dev/",
-  funFact:      "I turn ☕ caffeine into pixel-perfect, production-ready UIs",
+  motto      : "Code with passion. Ship with precision. 🚀"
 };
 ```
 
-> 🔨 Building full-stack apps with **React + Node.js** — currently exploring **TypeScript** & scalable system design  
-> 🎯 Targeting **Junior / Mid-level Full-Stack** & **Frontend Developer** roles  
-> ⚡ I believe great code is both functional **and** beautiful — shipped, not just styled
-
 ---
 
-## 🛠️ Tech Stack
-
-**Languages**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-
-**Frameworks & Libraries**
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-
-**Database & Cloud**
-
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
-
-**Tools & Workflow**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
-
----
-
-## 📊 GitHub Analytics
+## 🚀 Tech Stack
 
 <div align="center">
 
-<img
-  src="https://github-readme-stats.vercel.app/api?username=Jayakumar0604&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&icon_color=58a6ff&text_color=c9d1d9&rank_icon=github&include_all_commits=true&count_private=true&show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage"
-  height="165"
-  alt="Jayakumar's GitHub Stats"
-/>
-&nbsp;
-<img
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jayakumar0604&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=00d4aa&text_color=c9d1d9&langs_count=8"
-  height="165"
-  alt="Top Languages"
-/>
+### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,js,ts,html,css,tailwind,bootstrap,redux&theme=dark" />
+
+### ⚙️ Backend & Database
+<img src="https://skillicons.dev/icons?i=nodejs,express,mongodb,mysql,firebase&theme=dark" />
+
+### 🛠️ Tools & Platforms
+<img src="https://skillicons.dev/icons?i=git,github,vscode,postman,figma,netlify,vercel,linux&theme=dark" />
 
 </div>
+
+---
+
+## 📊 GitHub Statistics
+
+> ⚡ **Stats powered by shields.io + GitHub API — always live, never broken**
+
+<div align="center">
+
+<!-- shields.io pulls DIRECTLY from GitHub API - 100% reliable -->
+<img src="https://img.shields.io/github/stars/Jayakumar0604?affiliations=OWNER%2CCOLLABORATOR&style=for-the-badge&logo=github&label=Total%20Stars&color=a78bfa&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJayakumar0604&query=public_repos&style=for-the-badge&logo=github&label=Repositories&color=6366f1&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJayakumar0604&query=followers&style=for-the-badge&logo=github&label=Followers&color=22c55e&labelColor=0d1117" />
+&nbsp;
+<img src="https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fapi.github.com%2Fusers%2FJayakumar0604&query=following&style=for-the-badge&logo=github&label=Following&color=f59e0b&labelColor=0d1117" />
+
+</div>
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+<!-- Activity Graph - vercel app separate from readme-stats, works independently -->
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=Jayakumar0604&theme=tokyo-night&bg_color=0d1117&color=a78bfa&line=7c3aed&point=ff6b6b&area=true&area_color=a78bfa&hide_border=true&custom_title=Jayakumar%27s%20Full%20Contribution%20History" />
 
 <br/>
 
-<!-- 
-  ✅ STREAK FIX: Using demolab.com — the most stable public host for streak stats.
-  streak-stats.demolab.com is maintained by DenverCoder1 and is highly reliable.
-  If it ever goes down, self-host: https://github.com/DenverCoder1/github-readme-streak-stats
--->
-
-<div align="center">
-
-<img
-  src="https://streak-stats.demolab.com/?user=Jayakumar0604&theme=dark&hide_border=true&background=0D1117&ring=00d4aa&fire=00d4aa&currStreakLabel=00d4aa&sideLabels=c9d1d9&dates=8b949e&currStreakNum=ffffff&sideNums=ffffff&stroke=0d1117"
-  height="165"
-  alt="Jayakumar's GitHub Streak"
-/>
-
-</div>
-
----
-
-## 📈 Contribution Activity — Full History
-
-> 📌 Graph shows **all-time contributions** — giving a true picture of consistent activity over time.
-
-<div align="center">
-
-[![Jayakumar's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Jayakumar0604&bg_color=0d1117&color=00d4aa&line=58a6ff&point=ffffff&area_color=00d4aa&area=true&hide_border=true&custom_title=Jayakumar%27s%20All-Time%20Contribution%20Graph&from=2022-01-01)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<!-- Streak Stats - streak-stats.demolab.com, independent service -->
+<img src="https://streak-stats.demolab.com/?user=Jayakumar0604&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=ff6b6b&currStreakLabel=a78bfa&sideLabels=c9d1d9&dates=8b949e&stroke=a78bfa30&currStreakNum=ffffff&sideNums=ffffff" />
 
 </div>
 
@@ -142,76 +112,134 @@ const jayakumar: Developer = {
 ## 🏆 GitHub Trophies
 
 <div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=Jayakumar0604&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" />
+</div>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Jayakumar0604&theme=onestar&no-frame=true&no-bg=true&column=7&margin-w=4&margin-h=4)](https://github.com/ryo-ma/github-profile-trophy)
+---
+
+## 🌟 Featured Projects
+
+<div align="center">
+
+<!-- Manual project cards using shields.io — always work, no external stats service needed -->
+
+### 📚 LMS — Learning Management System
+[![LMS Repo](https://img.shields.io/badge/GitHub-LMS%20Project-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayakumar0604/LMS)
+[![Language](https://img.shields.io/github/languages/top/Jayakumar0604/LMS?style=for-the-badge&color=f7df1e&labelColor=0d1117)](https://github.com/Jayakumar0604/LMS)
+[![Stars](https://img.shields.io/github/stars/Jayakumar0604/LMS?style=for-the-badge&color=f59e0b&labelColor=0d1117)](https://github.com/Jayakumar0604/LMS)
+[![Last Commit](https://img.shields.io/github/last-commit/Jayakumar0604/LMS?style=for-the-badge&color=22c55e&labelColor=0d1117)](https://github.com/Jayakumar0604/LMS)
+
+> Full-featured Learning Management System with course management, user roles, and interactive content delivery.
+
+---
+
+### 💒 Wedding Organizer
+[![Wedding Repo](https://img.shields.io/badge/GitHub-Wedding%20Organizer-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayakumar0604/Wedding-Organizer)
+[![Language](https://img.shields.io/github/languages/top/Jayakumar0604/Wedding-Organizer?style=for-the-badge&color=f7df1e&labelColor=0d1117)](https://github.com/Jayakumar0604/Wedding-Organizer)
+[![Stars](https://img.shields.io/github/stars/Jayakumar0604/Wedding-Organizer?style=for-the-badge&color=f59e0b&labelColor=0d1117)](https://github.com/Jayakumar0604/Wedding-Organizer)
+[![Last Commit](https://img.shields.io/github/last-commit/Jayakumar0604/Wedding-Organizer?style=for-the-badge&color=22c55e&labelColor=0d1117)](https://github.com/Jayakumar0604/Wedding-Organizer)
+
+> End-to-end wedding planning platform with vendor management, guest lists, and event scheduling.
+
+---
+
+### 🏢 JIX Digital Agency
+[![JIX Repo](https://img.shields.io/badge/GitHub-JIX%20Digital%20Agency-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayakumar0604/JIX-Digital-Agency)
+[![Language](https://img.shields.io/github/languages/top/Jayakumar0604/JIX-Digital-Agency?style=for-the-badge&color=f7df1e&labelColor=0d1117)](https://github.com/Jayakumar0604/JIX-Digital-Agency)
+[![Stars](https://img.shields.io/github/stars/Jayakumar0604/JIX-Digital-Agency?style=for-the-badge&color=f59e0b&labelColor=0d1117)](https://github.com/Jayakumar0604/JIX-Digital-Agency)
+[![Last Commit](https://img.shields.io/github/last-commit/Jayakumar0604/JIX-Digital-Agency?style=for-the-badge&color=22c55e&labelColor=0d1117)](https://github.com/Jayakumar0604/JIX-Digital-Agency)
+
+> Professional digital agency website with modern UI, service showcases, and client portfolio.
+
+---
+
+### 🌦️ Weather App
+[![Weather Repo](https://img.shields.io/badge/GitHub-Weather%20App-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayakumar0604/Weather-App)
+[![Language](https://img.shields.io/github/languages/top/Jayakumar0604/Weather-App?style=for-the-badge&color=f7df1e&labelColor=0d1117)](https://github.com/Jayakumar0604/Weather-App)
+[![Stars](https://img.shields.io/github/stars/Jayakumar0604/Weather-App?style=for-the-badge&color=f59e0b&labelColor=0d1117)](https://github.com/Jayakumar0604/Weather-App)
+[![Last Commit](https://img.shields.io/github/last-commit/Jayakumar0604/Weather-App?style=for-the-badge&color=22c55e&labelColor=0d1117)](https://github.com/Jayakumar0604/Weather-App)
+
+> Real-time weather application using OpenWeather API with location search and 5-day forecasts.
+
+---
+
+### 💱 Currency Converter
+[![Currency Repo](https://img.shields.io/badge/GitHub-Currency%20Converter-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayakumar0604/Currency-Converter)
+[![Language](https://img.shields.io/github/languages/top/Jayakumar0604/Currency-Converter?style=for-the-badge&color=f7df1e&labelColor=0d1117)](https://github.com/Jayakumar0604/Currency-Converter)
+[![Stars](https://img.shields.io/github/stars/Jayakumar0604/Currency-Converter?style=for-the-badge&color=f59e0b&labelColor=0d1117)](https://github.com/Jayakumar0604/Currency-Converter)
+[![Last Commit](https://img.shields.io/github/last-commit/Jayakumar0604/Currency-Converter?style=for-the-badge&color=22c55e&labelColor=0d1117)](https://github.com/Jayakumar0604/Currency-Converter)
+
+> Live currency conversion tool supporting 150+ currencies with real-time exchange rate data.
+
+---
+
+### ⚖️ BMI Calculator
+[![BMI Repo](https://img.shields.io/badge/GitHub-BMI%20Calculator-a78bfa?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Jayakumar0604/BMI-Calculator)
+[![Language](https://img.shields.io/github/languages/top/Jayakumar0604/BMI-Calculator?style=for-the-badge&color=f7df1e&labelColor=0d1117)](https://github.com/Jayakumar0604/BMI-Calculator)
+[![Stars](https://img.shields.io/github/stars/Jayakumar0604/BMI-Calculator?style=for-the-badge&color=f59e0b&labelColor=0d1117)](https://github.com/Jayakumar0604/BMI-Calculator)
+[![Last Commit](https://img.shields.io/github/last-commit/Jayakumar0604/BMI-Calculator?style=for-the-badge&color=22c55e&labelColor=0d1117)](https://github.com/Jayakumar0604/BMI-Calculator)
+
+> Health-focused BMI calculator with visual indicators, category classification, and health advice.
 
 </div>
 
 ---
 
-## 🚀 Featured Projects
+## 💼 Skills at a Glance
 
 <div align="center">
 
-| # | Project | Description | Stack | Live |
-|:-:|---------|-------------|-------|:----:|
-| 01 | [📚 **LMS**](https://github.com/Jayakumar0604/LMS) | Full-stack Learning Management System with course management, user auth & role-based access | `React` `Node.js` `Express` `JavaScript` | — |
-| 02 | [💍 **Wedding Organizer**](https://github.com/Jayakumar0604/Wedding-Organizer) | End-to-end wedding planning app with vendor & event management | `JavaScript` `HTML5` `CSS3` | — |
-| 03 | [⚡ **JIX Digital Agency**](https://github.com/Jayakumar0604/JIX-Digital-Agency) | Modern agency landing page with animated hero & smooth scroll components | `JavaScript` `CSS3` | — |
-| 04 | [🌤️ **Weather App**](https://github.com/Jayakumar0604/Weather-App) | Real-time weather dashboard with live API integration & dynamic UI | `JavaScript` `REST API` | — |
-| 05 | [⚖️ **BMI Calculator**](https://github.com/Jayakumar0604/BMI-Calculator) | Health utility with instant visual feedback & responsive design | `JavaScript` `HTML5` | — |
-| 06 | [💱 **Currency Converter**](https://github.com/Jayakumar0604/Currency-Converter) | Live forex converter with public exchange rate API & minimal UI | `JavaScript` `REST API` | — |
+| 🎯 Skill | 📊 Proficiency |
+|----------|----------------|
+| React.js & Redux | `██████████` 90% |
+| Node.js & Express | `█████████░` 85% |
+| MongoDB & SQL | `████████░░` 80% |
+| JavaScript / ES6+ | `█████████░` 88% |
+| REST API Development | `████████░░` 82% |
+| Git & Version Control | `█████████░` 90% |
+| Tailwind / Bootstrap | `████████░░` 85% |
 
 </div>
 
 ---
 
-## 💼 Recruiter Quick-View
+## 📬 Hire Me — Full-Time Only
 
 <div align="center">
 
-| Field | Details |
-|:------|:--------|
-| 🎯 **Target Role** | Junior / Mid-Level Full-Stack Developer · Frontend Developer |
-| 📍 **Current Location** | Pudukkottai, Tamil Nadu |
-| 🏙️ **Open to Relocate** | Bengaluru · Chennai · Coimbatore · Hyderabad · Remote 🌐 |
-| 🟢 **Availability** | **Immediate** — Full-Time only |
-| 💼 **Projects Shipped** | 6+ end-to-end personal projects |
-| 📂 **GitHub** | [github.com/Jayakumar0604](https://github.com/Jayakumar0604) |
-| 🌐 **Portfolio** | [jayakumar-developer.netlify.app](https://jayakumar-developer.netlify.app/) |
-| 🔗 **LinkedIn** | [linkedin.com/in/jayakumar-dev](https://www.linkedin.com/in/jayakumar-dev/) |
-| 📧 **Email** | [jayakumarcse0421@gmail.com](mailto:jayakumarcse0421@gmail.com) |
-
-</div>
-
----
-
-## 🌐 Connect With Me
-
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/🌐_Portfolio-jayakumar--developer.netlify.app-00C7B7?style=for-the-badge&labelColor=0d1117)](https://jayakumar-developer.netlify.app/)
-&nbsp;
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-jayakumar--dev-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117)](https://www.linkedin.com/in/jayakumar-dev/)
-&nbsp;
-[![GitHub](https://img.shields.io/badge/GitHub-Jayakumar0604-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=0d1117)](https://github.com/Jayakumar0604)
-&nbsp;
-[![Email](https://img.shields.io/badge/Email-jayakumarcse0421@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117)](mailto:jayakumarcse0421@gmail.com)
-
-</div>
-
----
-
-<div align="center">
-
-*"First, solve the problem. Then, write the code." — John Johnson*
+> ### 🟢 Actively Looking for Full-Time Developer Roles
+> **📍 Based in:** Pudukkottai, Tamil Nadu
+> **✈️ Willing to relocate to:** Bangalore · Chennai · Coimbatore · Hyderabad
+> **🌐 Also available:** Remote
 
 <br/>
 
-**⭐ If my work helped or inspired you, a star on a repo means a lot!**
+<a href="mailto:jayakumarcse0421@gmail.com">
+  <img src="https://img.shields.io/badge/📧%20Email-jayakumarcse0421%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
-<br/>
+<br/><br/>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer&reversal=false" width="100%"/>
+<a href="https://www.linkedin.com/in/jayakumar-dev/">
+  <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://jayakumar-developer.netlify.app/">
+  <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-FF6B6B?style=for-the-badge&logo=netlify&logoColor=white"/>
+</a>
+&nbsp;
+<a href="https://github.com/Jayakumar0604">
+  <img src="https://img.shields.io/badge/GitHub-Follow-333?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
+<br/><br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" />
+
+</div>
+
+---
+
+<div align="center">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:24243e,50:302b63,100:0f0c29&height=120&section=footer&text=Open%20to%20Full-Time%20Opportunities&fontSize=22&fontColor=a78bfa&animation=fadeIn&fontAlignY=65" />
 </div>
