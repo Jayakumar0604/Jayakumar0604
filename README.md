@@ -143,9 +143,39 @@ const Jayakumar = {
 
 ## 🏆 GitHub Trophies
 
+<!-- trophy section -->
 <div align="center">
 
-<img src="https://github-profile-trophy-liard-delta.vercel.app/?username=Jayakumar0604&theme=tokyonight&no-frame=true&no-bg=true&margin-w=8&column=7" width="100%" alt="GitHub Trophies" />
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏆_Repositories-15-534AB7?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏆_Language-JavaScript-1D9E75?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏅_Experience-2024-BA7517?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🥈_Followers-1-185FA5?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏆_YOLO-Achievement-993C1D?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏆_Projects-Web_Dev-993556?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏆_Focus-Frontend-3B6D11?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+    <td align="center">
+      <img src="https://img.shields.io/badge/🏆_Stack-JS_Dev-378ADD?style=for-the-badge&labelColor=1a1b27" />
+    </td>
+  </tr>
+</table>
 
 </div>
 
