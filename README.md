@@ -28,7 +28,7 @@
   <img src="https://img.shields.io/badge/Gmail-Hire%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
-<a href="https://jayakumar-developer.netlify.app/">
+<a href="https://jayakumar-m.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-View%20Work-a78bfa?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117" />
 </a>
 &nbsp;
@@ -55,7 +55,7 @@ const Jayakumar = {
   currentFocus: "Building scalable, production-ready web applications",
   contact     : {
     email     : "jayakumarcse0421@gmail.com",
-    portfolio : "https://jayakumar-developer.netlify.app/",
+    portfolio : "https://jayakumar-m.vercel.app/",
     linkedin  : "https://www.linkedin.com/in/jayakumar-dev/",
     github    : "https://github.com/Jayakumar0604"
   },
@@ -237,7 +237,7 @@ const Jayakumar = {
   <img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
-<a href="https://jayakumar-developer.netlify.app/">
+<a href="https://jayakumar-m.vercel.app/">
   <img src="https://img.shields.io/badge/Portfolio-See%20My%20Work-a78bfa?style=for-the-badge&logo=netlify&logoColor=white&labelColor=0d1117"/>
 </a>
 &nbsp;
